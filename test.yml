@@ -1,0 +1,21 @@
+name: Jamie
+age: 24
+address: "uk: london"
+active: true
+key:
+  key: value
+  key2: 24
+jsonObject: { key: 2, key3: hello }
+array: 
+  - item
+  - 34
+  - test: 
+      key: hello
+objectArray: 
+  - key: value
+    name: jamie
+  - key2: value2
+longText: | 
+  mljksdhjksd
+  jhsajkhdkj
+  ljkshjkdhf
