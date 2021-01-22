@@ -12,7 +12,7 @@ array:
   - test: 
       key: hello
 objectArray: 
-  - key: value
+  - key: value1
     name: jamie
   - key2: value2
 longText: | 
